@@ -1,8 +1,8 @@
-## Hello
+## Bio
 
-Jonathan Altman-Ezzard was born on March 4th 1992 to Abby Altman and Peter Ezzard. He has two siblings, Sarah and Michael. He is a freelance musician, composer, substitute teacher, proud member of the NYARNG, and technology enthusiast. Jonathan also enjoys creating short films, painting, reorganizing, and building things with power tools! As a busy young professional in a volatile job market he is constantly searching for oppurtunities to reinvent himself. 
+Jonathan Altman-Ezzard was born on March 4th, 1992 to Abby Altman and Peter Ezzard. He has two siblings, Sarah and Michael. He is a freelance musician & educator, composer, substitute teacher, proud member of the NYARNG, and technology enthusiast. Jonathan also enjoys creating short films, painting, reorganizing, and building things with power tools! As a busy young professional in a volatile job market he is constantly searching for oppurtunities to reinvent himself. Jonathan received education through the NYC public school system (PS6, Wagner, Talent Unlimited HS). While in High School he took "pre-college" music courses at the Manhattan School of Music. Upon graduating highschool he enrolled in the Eastman School of Music and left after one year of study. Upon returning to NYC he enrolled in Hunter College for a semester and studied painting before transferring to Queens College, CUNY where he completed his BA in Music in 2015.
 
-Most recently he has built an online platform for hosting his students lesson plans and notes. During the day he is a substitute teacher at NYC's "STAR ACADEMY". He is a supporting of climate activism, social justice, and economic liberalization. He frequently wonders how the digital world can make things more equitable. 
+The years following 2015 have been marked performances all over NYC with various groups and an ever growing studio. Nothing is more enjoyable to him than seeing other peoples growth, whether it be musical or personal. Most recently he has built an online platform for hosting his students lesson plans and notes. During the day he is a substitute teacher at NYC's "Star Academy". He believes in climate activism, social justice, and economic liberalization. He frequently wonders how the digital world can make things more equitable. 
 
 
 
@@ -29,7 +29,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [uptownmusicinc](https://uptownmusic.nyc).
 
 ### Jekyll Themes
 
