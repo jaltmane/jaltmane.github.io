@@ -6,6 +6,8 @@ The years following 2015 have been marked performances all over NYC with various
 
 Nothing is more enjoyable to him than seeing other peoples growth, whether it be musical or personal. Most recently he has built an online platform for hosting his students lesson plans and notes. During the day he is a substitute teacher at NYC's "Star Academy". He believes in climate activism, social justice, and economic liberalization. He frequently wonders how the digital world can make things more equitable. 
 
+The main purpose of this bio page is to put my story forward on the web as public knowledge in its most unbiased form. I frequently find that in conversation no one really gets to know that much about another person! If for whatever reason you wound up reading this page I hope you will leave with a better understanding of who I am and the life I have lived so far!    
+
 
 
 
