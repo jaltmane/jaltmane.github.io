@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## Hello
 
-You can use the [editor on GitHub](https://github.com/jaltmane/jaltmane.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Jonathan Altman-Ezzard was born on March 4th 1992 to Abby Altman and Peter Ezzard. He has two siblings, Sarah and Michael. He is a freelance musician, composer, substitute teacher, proud member of the NYARNG, and technology enthusiast. Jonathan also enjoys creating short films, painting, reorganizing, and building things with power tools! As a busy young professional in a volatile job market he is constantly searching for oppurtunities to reinvent himself. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Most recently he has built an online platform for hosting his students lesson plans and notes. During the day he is a substitute teacher at NYC's "STAR ACADEMY". He is a supporting of climate activism, social justice, and economic liberalization. He frequently wonders how the digital world can make things more equitable. 
 
-### Markdown
+
+
+
+### Bio
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
