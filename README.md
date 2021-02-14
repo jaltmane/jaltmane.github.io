@@ -8,7 +8,7 @@ The years following 2015 were marked with performances all over NYC with various
 
 Jonathan currently maintains a piano studio of approximately 15-20 students. He also teaches guitar and voice. Most recently he developed an online system for distributing his students lesson materials and notes when the COVID-19 Pandemic made in person teaching unreliable.  
 
-Nothing is more enjoyable to him than seeing other peoples growth, whether it be musical or personal. Most recently he has built an online platform for hosting his students lesson plans and notes. During the day he is a substitute teacher at NYC's "Star Academy". He believes in climate activism, social justice, and economic liberalization. He frequently wonders how the digital world can make things more equitable. Although he has received formal education Jonathan considers himself an autodidact. 
+Nothing is more enjoyable to him than seeing other peoples growth, whether it be musical or personal During the day he is a substitute teacher at NYC's "Star Academy". He believes in climate activism, social justice, and economic liberalization. He frequently wonders how the digital world can make things more equitable. Although he has received formal education Jonathan considers himself an autodidact. 
 
 He is a fan of all things regarding technology, cryptocurrency, astrology, physics, music, and the universe. 
 
