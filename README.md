@@ -4,13 +4,11 @@ Jonathan Altman-Ezzard was born on March 4th, 1992 to Abby Altman and Peter Ezza
 
 Jonathan received education through the NYC public school system (PS6, Wagner, Talent Unlimited HS). While in High School he studied Tuba, Music Theory, and Ear Training at the Manhattan School of Music. He enrolled in the Eastman School of Music and left after one year of study. Upon returning to NYC he enrolled in Hunter College for a semester and studied painting before transferring to Queens College, CUNY where he completed his BA in Music in 2015.
 
-The years following 2015 were marked with performances all over NYC with various groups and an ever growing lesson studio. Although he kept busy it was difficult for him to find his "niche". He briefly worked as a Taxi Driver for Uber and as a Barista. Disillusioned with his work options he enrolled in a coding bootcamp through rutgers university and enlisted in the army national guard in hopes of setting out on a new path. 
-
 Jonathan currently maintains a piano studio of approximately 15-20 students. He also teaches guitar and voice. Most recently he developed an online system for distributing his students lesson materials and notes when the COVID-19 Pandemic made in person teaching unreliable.  
 
-Nothing is more enjoyable to him than seeing other peoples growth, whether it be musical or personal During the day he is a substitute teacher at NYC's "Star Academy". He believes in climate activism, social justice, and economic liberalization. He frequently wonders how the digital world can make things more equitable. Although he has received formal education Jonathan considers himself an autodidact. 
+Nothing is more enjoyable to him than seeing other peoples growth. During the day he is a substitute teacher at NYC's "Star Academy". He believes in climate activism, social justice, and economic liberalization. He frequently wonders how the digital world can make things more equitable. Although he has received formal education Jonathan considers himself an autodidact. 
 
-He is a fan of all things regarding technology, cryptocurrency, astrology, physics, music, and the universe. 
+He is a fan of all things regarding technology, physics, music, and the universe. 
 
 Stay tuned for updates!     
 
